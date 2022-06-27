@@ -163,17 +163,11 @@ if __name__ == "__main__":
     '''Examples:'''
     getShortestPathInGraph(G, 'blatt', 'fessel')
     #getShortestPathInGraph(G, 'blatt', 'idee')
-    #getShortestPathInGraph(G, 'gott', 'kette')
-    #getShortestPathInGraph(G, 'gott', 'erleuchtung')
-    #getShortestPathInGraph(G, 'kampf', 'himmel')
     #getShortestPathInGraph(G, 'machen', 'tier')
-    #getShortestPathInGraph(G, 'lieben', 'hassen')
-    #getShortestPathInGraph(G, 'sex', 'jesus')
     #getShortestPathInGraph(G, 'stuhl', 'hochzeit')
     #getShortestPathInGraph(G, 'schrank', 'auto')
     #getShortestPathInGraph(G, 'traktor', 'fabrik')
     #getShortestPathInGraph(G, 'unsicherheit', 'gewissheit')
-    #getShortestPathInGraph(G, 'hoffnung', 'zerstörung')
 
     #components = nx.connected_components(G)
     #components = list(nx.connected_components(G))
