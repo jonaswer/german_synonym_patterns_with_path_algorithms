@@ -19,7 +19,7 @@ Script main.py and see the output in the console. The example below shows the co
 
 Example:
 
-Basic Information
+Basic Information <br>
 start word is found in 3 different word-patterns
 end word is found in 2 different word-patterns
 Strting Node:
