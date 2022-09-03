@@ -15,7 +15,7 @@ The german language is used with a synonym dataset from https://www.openthesauru
 Usage:
 
 The main function includes examples with different pairs of words, which can be changed by the user. Call the 
-Script main.py and see the output in the console. The example below shows the console output for the pair (Fessel, Zettel)
+Script main.py and see the output in the console. The example below shows the console output for the pair (Unsicherheit, Gewissenheit)
 
 Example:
 
