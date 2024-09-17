@@ -1,6 +1,8 @@
 # German_language_synonym_patterns
 
-Context:
+Explore Synographs - A graph-based synonym pattern search tool.
+
+## Context
 
 Language sometimes offers different words for the same meaning. This is widely known as synonyms. Furthermore, there 
 are words, which can be used for different meanings depending on the context the speaker uses them. This Python code
@@ -12,11 +14,6 @@ with the help of their individual synonyms. A small picture shall help to unders
 
 The german language is used with a synonym dataset from https://www.openthesaurus.de/
 
-Usage:
+## Deployment
 
-The main function includes examples with different pairs of words, which can be changed by the user. Call the 
-Script main.py and see the output in the console. The example below shows the console output for the pair (Unsicherheit, Gewissenheit)
-
-Deployment:
-
-The code is deployed web-based under synographs.herokuapp.com
+The code is deployed web-based under synographs.herokuapp.com. 
