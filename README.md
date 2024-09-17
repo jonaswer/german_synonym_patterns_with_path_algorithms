@@ -15,7 +15,7 @@ The following figure illustrates the approach.
 
 ![graph](explaination_draw.png)
 
-The german language is used with a synonym dataset from https://www.openthesaurus.de/
+The german language is used with a synonym dataset from https://www.openthesaurus.de/.
 
 ## Deployment
 
