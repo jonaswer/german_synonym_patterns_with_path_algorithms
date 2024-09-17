@@ -16,4 +16,4 @@ The german language is used with a synonym dataset from https://www.openthesauru
 
 ## Deployment
 
-The code is deployed web-based under synographs.herokuapp.com. 
+The code is deployed web-based under https://www.synographs.herokuapp.com. 
